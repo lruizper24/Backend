@@ -34,25 +34,25 @@ El diseño de la base de datos debe permitir:
 
 - Modelo Entidad-Relación:
 
-![Alt text](Imagenes/3.1/Modelo%20Entidad%20Relación%203.1.png)
+![ERD 3.1](Imagenes/3.1/Modelo%20Entidad%20Relación%203.1.png)
 
 - Querys - Tablas en PostgreSQL - Ejecución:
 
 ##### - Categories:
 
-![Alt text](Imagenes/3.1/Categories%20table.png)
+![Categories table](Imagenes/3.1/Categories%20table.png)
  
 ##### - Parts:
 
-![Alt text](Imagenes/3.1/Parts%20table.png)
+![Parts table](Imagenes/3.1/Parts%20table.png)
 
 ##### - Suppliers:
 
-![Alt text](Imagenes/3.1/Suppliers%20table.png)
+![Supplierts table](Imagenes/3.1/Suppliers%20table.png)
 
 ##### - Supplies:
 
-![Alt text](Imagenes/3.1/Supplies%20table.png)
+![Suplies table](Imagenes/3.1/Supplies%20table.png)
 
 ##### 3.2. Se desea diseñar una base de datos que sea de utilidad para *concesionarios de automóviles*.
 1. Un concesionario puede vender automóviles de varias marcas.
@@ -111,39 +111,38 @@ Notar que, lo que son características del equipamiento de serie de algunos mode
 
 - Modelo Entidad-Relación:
 
-![Alt text](Imagenes/3.2/Entity_relationship_model%203.2.png)
+![ERD 3.2](Imagenes/3.2/Entity_relationship_model%203.2.png)
 
 - Querys - Tablas en PostgreSQL - Ejecución:
 
 ##### - Car Equipment:
 
-![Alt text](Imagenes/3.2/car_equipment_table.png)
+![Car Equipment table](Imagenes/3.2/car_equipment_table.png)
 
 ##### - Optional Equipment:
 
-![Alt text](Imagenes/3.2/optional_equipment_table.png)
+![Optional Equipment table](Imagenes/3.2/optional_equipment_table.png)
 
 ##### - Technical Data:
 
-![Alt text](Imagenes/3.2/technical_data_table.png)
+![Technical Data table](Imagenes/3.2/technical_data_table.png)
 
 ##### - Cars:
 
-![Alt text](Imagenes/3.2/cars_table.png)
+![Cars table](Imagenes/3.2/cars_table.png)
 
 ##### - Distributor Location:
 
-![Alt text](Imagenes/3.2/distributor_location_table.png)
+![Distributor Location table](Imagenes/3.2/distributor_location_table.png)
 
 ##### - Stock:
 
-![Alt text](Imagenes/3.2/stock_table.png)
+![Stock table](Imagenes/3.2/stock_table.png)
 
 ##### - Sales:
 
-![Alt text](Imagenes/3.2/sales_table.png)
+![Sales table](Imagenes/3.2/sales_table.png)
 
 ##### - Sellers:
 
-![Alt text](Imagenes/3.2/sellers_table.png)
-
+![Sellers table](Imagenes/3.2/sellers_table.png)
